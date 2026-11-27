@@ -1162,7 +1162,7 @@
     <color name="teal_onPrimaryContainer">#fffffcf5</color>
     <color name="teal_secondary">#ffb28d43</color>
     <color name="teal_onSecondary">#fffffcf5</color>
-    <color name="teal_secondaryContainer">#ffede4d3</color>
+    <color name="teal_secondaryContainer">#fff0e5cc</color>
     <color name="teal_onSecondaryContainer">#ff34352f</color>
     <color name="teal_tertiary">#ffb28d43</color>
     <color name="teal_onTertiary">#fffffcf5</color>
@@ -1176,7 +1176,7 @@
     <color name="teal_onBackground">#ff34352f</color>
     <color name="teal_surface">#fff5f1e8</color>
     <color name="teal_onSurface">#ff34352f</color>
-    <color name="teal_surfaceVariant">#ffede4d3</color>
+    <color name="teal_surfaceVariant">#fff5f1e8</color>
     <color name="teal_onSurfaceVariant">#ff817b6e</color>
     <color name="teal_outline">#ff817b6e</color>
     <color name="teal_outlineVariant">#ffded7c9</color>
@@ -1209,7 +1209,7 @@
     <color name="teal_onPrimaryContainer_mediumContrast">#fffffcf5</color>
     <color name="teal_secondary_mediumContrast">#ffb28d43</color>
     <color name="teal_onSecondary_mediumContrast">#fffffcf5</color>
-    <color name="teal_secondaryContainer_mediumContrast">#ffede4d3</color>
+    <color name="teal_secondaryContainer_mediumContrast">#fff0e5cc</color>
     <color name="teal_onSecondaryContainer_mediumContrast">#ff34352f</color>
     <color name="teal_tertiary_mediumContrast">#ffb28d43</color>
     <color name="teal_onTertiary_mediumContrast">#fffffcf5</color>
@@ -1223,7 +1223,7 @@
     <color name="teal_onBackground_mediumContrast">#ff34352f</color>
     <color name="teal_surface_mediumContrast">#fff5f1e8</color>
     <color name="teal_onSurface_mediumContrast">#ff34352f</color>
-    <color name="teal_surfaceVariant_mediumContrast">#ffede4d3</color>
+    <color name="teal_surfaceVariant_mediumContrast">#fff5f1e8</color>
     <color name="teal_onSurfaceVariant_mediumContrast">#ff817b6e</color>
     <color name="teal_outline_mediumContrast">#ff817b6e</color>
     <color name="teal_outlineVariant_mediumContrast">#ffded7c9</color>
@@ -1256,7 +1256,7 @@
     <color name="teal_onPrimaryContainer_highContrast">#fffffcf5</color>
     <color name="teal_secondary_highContrast">#ffb28d43</color>
     <color name="teal_onSecondary_highContrast">#fffffcf5</color>
-    <color name="teal_secondaryContainer_highContrast">#ffede4d3</color>
+    <color name="teal_secondaryContainer_highContrast">#fff0e5cc</color>
     <color name="teal_onSecondaryContainer_highContrast">#ff34352f</color>
     <color name="teal_tertiary_highContrast">#ffb28d43</color>
     <color name="teal_onTertiary_highContrast">#fffffcf5</color>
@@ -1270,7 +1270,7 @@
     <color name="teal_onBackground_highContrast">#ff34352f</color>
     <color name="teal_surface_highContrast">#fff5f1e8</color>
     <color name="teal_onSurface_highContrast">#ff34352f</color>
-    <color name="teal_surfaceVariant_highContrast">#ffede4d3</color>
+    <color name="teal_surfaceVariant_highContrast">#fff5f1e8</color>
     <color name="teal_onSurfaceVariant_highContrast">#ff817b6e</color>
     <color name="teal_outline_highContrast">#ff817b6e</color>
     <color name="teal_outlineVariant_highContrast">#ffded7c9</color>
