@@ -58,7 +58,7 @@
             <shape
                 android:shape="rectangle">
                 <solid
-                    android:color="?attr/colorCard" />
+                    android:color="?attr/colorSecondaryContainer" />
                 <corners
                     android:radius="14.0dip" />
             </shape>
