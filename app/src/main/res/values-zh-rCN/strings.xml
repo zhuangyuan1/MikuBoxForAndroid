@@ -215,7 +215,7 @@
     <string name="need_reload">重载代理服务以应用修改</string>
     <string name="theme">主题颜色</string>
     <string name="donate">捐款</string>
-    <string name="donate_info">猫猫很可爱 请给猫猫钱</string>
+    <string name="donate_info">保持日常，认真做好每一件事。</string>
     <string name="extra_headers">附加标头</string>
     <string name="username">用户名</string>
     <string name="key_opt">密码 (可选)</string>
@@ -410,7 +410,7 @@
     <string name="backup_importing">正导入…</string>
     <string name="action_copy">复制</string>
     <string name="action_open">打开</string>
-    <string name="please_update" formatted="false">您的 APP (%s) 太旧了喵, %s 再不更新就没的用了喵～</string>
+    <string name="please_update" formatted="false">当前版本 (%s) 较旧，建议于 %s 前更新。</string>
     <string name="please_update_force" formatted="false">您的 APP (%s) 版本过旧, 已于 %s 停止工作, 请立即升级.</string>
     <string name="connection_test_delete_unavailable">清理不可用配置</string>
     <string name="packet_encoding">包编码</string>
@@ -637,9 +637,9 @@
     <string name="hide_weather_city">隐藏城市名称</string>
     <string name="hide_weather_city_summary">在天气信息中隐藏城市位置</string>
     <string name="traffic_title">流量</string>
-    <string name="tools_summary">来自 Miku 的魔法盒助手。</string>
-    <string name="logcat_summary">Miku 今天的日记。</string>
-    <string name="about_summary">此应用背后的秘密。</string>
+    <string name="tools_summary">实用网络诊断与工具。</string>
+    <string name="logcat_summary">今日运行记录。</string>
+    <string name="about_summary">应用版本与项目说明。</string>
     <string name="st_status_testing">测试中...</string>
     <string name="st_status_waiting">等待中...</string>
     <string name="st_status_running">运行中...</string>
@@ -672,7 +672,7 @@
     <string name="update_not_available_message">你使用的是最新版本 (%1$s)。</string>
     <string name="action_ok">好的</string>
     <string name="check_update_failed">检查更新失败：%1$s</string>
-    <string name="update_summary">来更新 MikuBox 吧，主人！</string>
+    <string name="update_summary">检查 KITA BOX 的最新版本。</string>
     <string name="create_shortcut_summary">在主屏幕创建快捷方式</string>
     <string name="move_summary">移至其他分组进行整理</string>
     <string name="title_show_welcome_anim">爱心动画</string>
@@ -685,8 +685,8 @@
     <string name="reset_font_scale_title">重置字体缩放大小</string>
     <string name="reset_font_scale_message">将字体大小重置为默认值 (100)？</string>
     <string name="display_category">显示</string>
-    <string name="summary_speed_test">测测现在的网速有多快！</string>
-    <string name="summary_free_config">随心配置，完全免费！</string>
+    <string name="summary_speed_test">测试当前网络速率与延迟。</string>
+    <string name="summary_free_config">快速生成基础测试配置。</string>
     <string name="profile_shape_title">个人资料横幅形状</string>
     <string name="preference_shape_title">图标形状</string>
     <string name="pref_disable_bottom_sheet_fragment_title">在 fragment 中禁用 bottomsheet</string>
@@ -748,8 +748,8 @@
     <string name="hostchecker_complete">检查完成</string>
     
     <!-- uwu -->
-    <string name="uwu_miku_ui">Miku 的衣橱</string>
-    <string name="uwu_miku_ui_summary">快来把 Miku 打扮得更漂亮吧！</string>
+    <string name="uwu_miku_ui">界面与主题</string>
+    <string name="uwu_miku_ui_summary">调整 KITA BOX 的外观、色彩与排版。</string>
 	<string name="uwu_name_title">应用名称</string>
     <string name="uwu_version_name_title">版本名称</string>
     <string name="uwu_version_code_title">版本代码</string>
@@ -757,33 +757,31 @@
     <string name="uwu_mikubox_author_title">作者</string>
     <string name="uwu_build_date_title">构建日期</string>
     <string name="uwu_big_thanks">特别感谢</string>
-    <string name="uwu_about_miku_title">谁是 Hatsune Miku？</string>
-    <string name="uwu_about_miku_summary">初音未来(Hatsune Miku) 是 Crypton Future Media 发布的基于 Vocaloid 制作的虚拟歌手, 代号CV01. 以青绿色的长双马尾和清亮嗓音著称, 人设为16岁少女, 是全球知名虚拟偶像, 广泛活跃于音乐、演唱会及动画, 深受粉丝们喜爱.</string>
+    <string name="uwu_about_miku_title">关于北信介</string>
+    <string name="uwu_about_miku_summary">北信介（Kita Shinsuke），稻荷崎高校排球部主将，背号 1 号。以「做好日常、无需喝彩」的自律与沉稳著称，日复一日认真对待每一件小事。</string>
     <string name="uwu_about_version_title">关于应用</string>
     <string name="uwu_about_version_summary">点击此处或箭头图标, 了解应用更多信息.</string>
-    <string name="uwu_banner_settings_title">你好呀……</string>
-    <string name="uwu_banner_settings_summary">"欢迎来到设置菜单,
-请选择任何你
-需要的和必须
-的功能选项"</string>
-    <string name="uwu_banner_summary">来和我一起唱歌吧！</string>
-    <string name="uwu_banner_summary_1">美好的一天。</string>
-    <string name="uwu_banner_summary_2">祝你有美好的一天。</string>
-    <string name="uwu_banner_summary_3">让我们努力工作！</string>
-    <string name="uwu_banner_summary_4">在找什么吗？</string>
-    <string name="uwu_banner_summary_5">让我们专注于今天！</string>
-    <string name="uwu_banner_summary_6">祝你有个愉快的一天！</string>
+    <string name="uwu_banner_settings_title">设置</string>
+    <string name="uwu_banner_settings_summary">"按需调整各项配置，
+让日常使用更稳妥。"</string>
+    <string name="uwu_banner_summary">日々、丁寧に。</string>
+    <string name="uwu_banner_summary_1">今日亦如常。</string>
+    <string name="uwu_banner_summary_2">把今天的事，也认真做好。</string>
+    <string name="uwu_banner_summary_3">无需喝彩，只需做好。</string>
+    <string name="uwu_banner_summary_4">规律作息，稳步前行。</string>
+    <string name="uwu_banner_summary_5">专注当下这一步。</string>
+    <string name="uwu_banner_summary_6">做好日常，便是全部。</string>
     <string name="uwu_banner_summary_7">欢迎回来。</string>
-    <string name="uwu_banner_summary_8">打开你的心灵吧..!</string>
-    <string name="uwu_banner_summary_9">突破.. 限制！</string>
-    <string name="uwu_banner_summary_10">你在做什么呢？</string>
-    <string name="uwu_banner_title">主人</string>
-    <string name="uwu_banner_title_custom">嗨, %1$s</string>
+    <string name="uwu_banner_summary_8">细微之处，自见真章。</string>
+    <string name="uwu_banner_summary_9">一如既往，踏实前行。</string>
+    <string name="uwu_banner_summary_10">今日份的积累，也完成了吗。</string>
+    <string name="uwu_banner_title">北信介</string>
+    <string name="uwu_banner_title_custom">%1$s</string>
     <string name="uwu_general_settings_title">通用设置</string>
     <string name="uwu_maintainer_title">本应用由以下团队维护</string>
-    <string name="uwu_maintainer_summary">HatsuneMikuUwU 开发团队</string>
-    <string name="uwu_splash_title">"用心制作 ❤️
-HatsuneMikuUwU 开发组"</string>
+    <string name="uwu_maintainer_summary">KITA BOX 定制版</string>
+    <string name="uwu_splash_title">"KITA BOX
+日々、丁寧に。"</string>
     <string name="uwu_splash_summary">版本 %1$s (%2$d)</string>
     <string name="uwu_theme_settings_title">主题设置</string>
     <string name="uwu_theme_settings_summary">自定义强调色</string>
@@ -792,32 +790,32 @@ HatsuneMikuUwU 开发组"</string>
     
     <!-- miku-->
     <string name="uwu_miku_gender_title">性别</string>
-    <string name="uwu_miku_gender_summary">女性</string>
+    <string name="uwu_miku_gender_summary">男性</string>
     <string name="uwu_miku_birthday_title">生日</string>
-    <string name="uwu_miku_birthday_summary">8 月 31 日</string>
-    <string name="uwu_miku_age_title">年龄</string>
-    <string name="uwu_miku_age_summary">16</string>
-    <string name="uwu_miku_voice_title">声源</string>
-    <string name="uwu_miku_voice_summary">藤田咲</string>
+    <string name="uwu_miku_birthday_summary">7 月 5 日</string>
+    <string name="uwu_miku_age_title">背号</string>
+    <string name="uwu_miku_age_summary">1 号（稻荷崎高校主将）</string>
+    <string name="uwu_miku_voice_title">声优</string>
+    <string name="uwu_miku_voice_summary">野岛健儿</string>
     <string name="uwu_miku_weight_title">体重</string>
-    <string name="uwu_miku_weight_summary">42 公斤</string>
+    <string name="uwu_miku_weight_summary">67.5 公斤</string>
     <string name="uwu_miku_height_title">身高</string>
-    <string name="uwu_miku_height_summary">158 厘米</string>
+    <string name="uwu_miku_height_summary">175.2 厘米</string>
 
     <!-- welcome -->
     <string name="uwu_skip">跳过</string>
     <string name="uwu_next">继续</string>
     <string name="uwu_welcome_title">欢迎来到</string>
-    <string name="uwu_welcome_summary_1">"MikuBox,
-一款适用于 Android 的 Sing-box 客户端"</string>
-    <string name="uwu_welcome_summary_2">Android 上的 Sing-box 客户端, 采用 UwU 开发的 Miku UI</string>
-    <string name="uwu_welcome_summary_3">使用 Heart, Kotlin, Java 等语言制作</string>
+    <string name="uwu_welcome_summary_1">"KITA BOX，
+一款适用于 Android 的极简 Sing-box 客户端"</string>
+    <string name="uwu_welcome_summary_2">基于 Sing-box 内核，融入北信介极简美学设计</string>
+    <string name="uwu_welcome_summary_3">日々、丁寧に。把每一件事做好。</string>
 
     <!-- greeting -->
-    <string name="uwu_greeting_morning"> 早安…</string>
-    <string name="uwu_greeting_afternoon"> 午安…</string>
-    <string name="uwu_greeting_evening"> 暮安…</string>
-    <string name="uwu_greeting_night"> 晚安…</string>
-    <string name="uwu_greeting_late_night"> 该睡觉啦…</string>
+    <string name="uwu_greeting_morning">早安，今日亦如常。</string>
+    <string name="uwu_greeting_afternoon">午安，稳步推进。</string>
+    <string name="uwu_greeting_evening">傍晚了，收尾今日之事。</string>
+    <string name="uwu_greeting_night">晚安，今日辛苦了。</string>
+    <string name="uwu_greeting_late_night">夜深了，规律作息。</string>
     
 </resources>
