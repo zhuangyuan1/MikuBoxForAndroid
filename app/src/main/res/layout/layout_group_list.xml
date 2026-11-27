@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         layout="@layout/layout_appbar" />
     <LinearLayout
-        android:background="?colorPrimary"
+        android:background="?attr/colorSurface"
         android:paddingBottom="0.0dip"
         android:clipToPadding="false"
         android:layout_width="fill_parent"
@@ -29,8 +29,8 @@
             app:cardBackgroundColor="?colorCard"
             app:cardCornerRadius="28.0dip"
             app:cardElevation="0.0dip"
-            app:strokeColor="?colorCard"
-            app:strokeWidth="3.0dip">
+            app:strokeColor="?attr/colorOutlineVariant"
+            app:strokeWidth="1.0dip">
             <com.neko.blur.BlurImageViewGlide
                 android:id="@+id/img_banner_home_blur"
                 android:layout_width="fill_parent"
