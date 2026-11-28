@@ -66,7 +66,7 @@ jobs:
           ./run init action gradle
           rm -f release.keystore
           keytool -genkeypair -keystore release.keystore -alias temp -keyalg RSA -keysize 2048 -validity 365 -storepass 123456 -keypass 123456 -dname "CN=Temp"
-          KEYSTORE_PASS="123456" ALIAS_NAME="temp" ALIAS_PASS="123456" ./gradlew app:assemblePreviewRelease
+          KEYSTORE_PASS="123456" ALIAS_NAME="temp" ALIAS_PASS="123456" ./gradlew app:assembleOssRelease
           APK=$(find app/build/outputs/apk -name '*arm64-v8a*.apk')
           APK=$(dirname $APK)
           echo "APK=$APK" >> $GITHUB_ENV
