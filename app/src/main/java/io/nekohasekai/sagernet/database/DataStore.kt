@@ -92,7 +92,7 @@ object DataStore : OnPreferenceDataStoreChangeListener {
     var hidePreviewDialog by configurationStore.boolean("hide_preview_dialog")
     var boldFontEnabled by configurationStore.boolean("bold_font_switch")
     var trueBlackEnabled by configurationStore.boolean("true_dark_enabled")
-    var soundOnConnect by configurationStore.boolean("sound_connect") { true }
+    var soundOnConnect by configurationStore.boolean("sound_connect") { false }
     var dpiValue: Int
     get() = configurationStore.getInt("dpi_value", 0)
     set(value) = configurationStore.putInt("dpi_value", value)
